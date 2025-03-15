@@ -1,0 +1,41 @@
+{
+    "manifest_version": 3,
+    "name": "Bootleg Mage Enhancer",
+    "version": "1.0",
+    "description": "Enhances Bootleg Mage with price comparisons, bulk deck list imports, and wishlist management.",
+    "icons": {
+      "48": "icons/icon-48.png",
+      "96": "icons/icon-96.png"
+    },
+    "permissions": [
+      "storage"
+    ],
+    "host_permissions": [
+      "https://bootlegmage.com/*",
+      "https://api.scryfall.com/*"
+    ],
+    "action": {
+      "default_icon": {
+        "48": "icons/icon-48.png"
+      },
+      "default_title": "BM Enhancer",
+      "default_popup": "popup/popup.html"
+    },
+    "background": {
+      "service_worker": "background.js",
+      "scripts": ["browser-polyfill.js", "background.js"]
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://bootlegmage.com/*"],
+        "js": ["browser-polyfill.js", "content.js"],
+        "css": ["styles.css"]
+      }
+    ],
+    "web_accessible_resources": [
+      {
+        "resources": ["browser-polyfill.js"],
+        "matches": ["*://bootlegmage.com/*"]
+      }
+    ]
+  }
