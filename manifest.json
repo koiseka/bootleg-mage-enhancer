@@ -37,5 +37,11 @@
         "resources": ["browser-polyfill.js"],
         "matches": ["*://bootlegmage.com/*"]
       }
-    ]
+    ],
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "bootleg-mage-enhancer@example.com",
+        "strict_min_version": "109.0"
+      }
+    }
   }
