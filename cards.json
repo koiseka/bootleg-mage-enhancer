@@ -1,5 +1,677 @@
 [
   {
+    "name": "Green Sun’s Zenith MBS #81 Foil",
+    "tcgplayerId": "39050",
+    "productId": "71827",
+    "productSku": "S130-MBS-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1047-300x400.jpg"
+  },
+  {
+    "name": "The Aetherspark DFT #231 Foil",
+    "tcgplayerId": "614178",
+    "productId": "71826",
+    "productSku": "P137-DFT-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1049-300x400.jpg"
+  },
+  {
+    "name": "Swan Song SLD #1591 Full Art Foil",
+    "tcgplayerId": "617863",
+    "productId": "71814",
+    "productSku": "I115-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1061-300x400.jpg"
+  },
+  {
+    "name": "Path to Exile TSR #299 Foil",
+    "tcgplayerId": "233436",
+    "productId": "71813",
+    "productSku": "I156-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1062-300x400.jpg"
+  },
+  {
+    "name": "Gray Merchant of Asphodel TSR #323 Foil",
+    "tcgplayerId": "233904",
+    "productId": "71803",
+    "productSku": "C609-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1073-300x400.jpg"
+  },
+  {
+    "name": "Ketramose, the New Dawn DFT #209 Foil",
+    "tcgplayerId": "614483",
+    "productId": "71789",
+    "productSku": "C591-DFT-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1088-300x400.jpg"
+  },
+  {
+    "name": "Rhystic Study WOT #71 Full Art Anime JP Foil",
+    "tcgplayerId": "",
+    "productId": "71842",
+    "productSku": "E107-WOT-HF-A-J",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1070-300x400.jpg"
+  },
+  {
+    "name": "Ethersworn Canonist 2XM #14 Foil",
+    "tcgplayerId": "218801",
+    "productId": "71841",
+    "productSku": "C599-2XM-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1086-300x400.jpg"
+  },
+  {
+    "name": "Shattered Sanctum VOW #283 Full Art",
+    "tcgplayerId": "252937",
+    "productId": "71839",
+    "productSku": "L313-VOW-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1034-300x400.jpg"
+  },
+  {
+    "name": "Razaketh, the Foulblooded CMM #181",
+    "tcgplayerId": "504507",
+    "productId": "71838",
+    "productSku": "C329-CMM-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1035-300x400.jpg"
+  },
+  {
+    "name": "Myrel, Shield of Argive BRO #305 Extended Art",
+    "tcgplayerId": "453090",
+    "productId": "71837",
+    "productSku": "C191-BRO-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1036-300x400.jpg"
+  },
+  {
+    "name": "Protean Hulk RVR #435 Full Art",
+    "tcgplayerId": "530984",
+    "productId": "71836",
+    "productSku": "C377-RVR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1037-300x400.jpg"
+  },
+  {
+    "name": "Esika, God of the Tree KHM #314 Showcase Art",
+    "tcgplayerId": "230289",
+    "productId": "71835",
+    "productSku": "C611-KHM-HR-S",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1038-300x400.jpg"
+  },
+  {
+    "name": "Delney, Streetwise Lookout MKM #12",
+    "tcgplayerId": "533402",
+    "productId": "71834",
+    "productSku": "C394-MKM-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1040-300x400.jpg"
+  },
+  {
+    "name": "Black Market Connections LCC #181",
+    "tcgplayerId": "525773",
+    "productId": "71833",
+    "productSku": "E103-LCC-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1041-300x400.jpg"
+  },
+  {
+    "name": "Kozilek’s Command MH3 #11",
+    "tcgplayerId": "552839",
+    "productId": "71832",
+    "productSku": "I212-MH3-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1042-300x400.jpg"
+  },
+  {
+    "name": "Helm of the Host DOM #217",
+    "tcgplayerId": "162254",
+    "productId": "71831",
+    "productSku": "A270-DOM-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1043-300x400.jpg"
+  },
+  {
+    "name": "Embercleave ELD #359 Extended Art",
+    "tcgplayerId": "198816",
+    "productId": "71830",
+    "productSku": "A195-ELD-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1044-300x400.jpg"
+  },
+  {
+    "name": "Treasure Cruise TSR #319 Foil",
+    "tcgplayerId": "233783",
+    "productId": "71829",
+    "productSku": "S195-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1045-300x400.jpg"
+  },
+  {
+    "name": "Ancient Stirrings TSR #355 Foil",
+    "tcgplayerId": "234007",
+    "productId": "71828",
+    "productSku": "S194-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1046-300x400.jpg"
+  },
+  {
+    "name": "Karn, the Great Creator BLC #73 Full Art Foil",
+    "tcgplayerId": "559608",
+    "productId": "71825",
+    "productSku": "P106-BLC-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1050-300x400.jpg"
+  },
+  {
+    "name": "Wastes TSR #410 Foil",
+    "tcgplayerId": "234033",
+    "productId": "71824",
+    "productSku": "L312-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1051-300x400.jpg"
+  },
+  {
+    "name": "Bleachbone Verge DFT #371 Full Art Foil",
+    "tcgplayerId": "614399",
+    "productId": "71823",
+    "productSku": "L307-DFT-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1052-300x400.jpg"
+  },
+  {
+    "name": "Bojuka Bog TSR #406 Foil",
+    "tcgplayerId": "234274",
+    "productId": "71822",
+    "productSku": "L297-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1053-300x400.jpg"
+  },
+  {
+    "name": "Seat of the Synod SLD #301 Full Art Foil",
+    "tcgplayerId": "251799",
+    "productId": "71821",
+    "productSku": "L279-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1054-300x400.jpg"
+  },
+  {
+    "name": "Vault of Whispers SLD #302 Full Art Foil",
+    "tcgplayerId": "251800",
+    "productId": "71820",
+    "productSku": "L311-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1055-300x400.jpg"
+  },
+  {
+    "name": "Great Furnace SLD #303 Full Art Foil",
+    "tcgplayerId": "251801",
+    "productId": "71819",
+    "productSku": "L310-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1056-300x400.jpg"
+  },
+  {
+    "name": "Tree of Tales SLD #304 Full Art Foil",
+    "tcgplayerId": "251802",
+    "productId": "71818",
+    "productSku": "L309-SLD-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1057-300x400.jpg"
+  },
+  {
+    "name": "Wastewood Verge DFT #374 Full Art Foil",
+    "tcgplayerId": "614429",
+    "productId": "71817",
+    "productSku": "L304-DFT-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1058-300x400.jpg"
+  },
+  {
+    "name": "Nature’s Claim TSR #364 Foil",
+    "tcgplayerId": "234014",
+    "productId": "71816",
+    "productSku": "I211-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1059-300x400.jpg"
+  },
+  {
+    "name": "Abrupt Decay TSR #370 Foil",
+    "tcgplayerId": "234148",
+    "productId": "71815",
+    "productSku": "I210-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1060-300x400.jpg"
+  },
+  {
+    "name": "Dismember TSR #322 Foil",
+    "tcgplayerId": "233860",
+    "productId": "71812",
+    "productSku": "I195-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1063-300x400.jpg"
+  },
+  {
+    "name": "Beast Within TSR #357 Foil",
+    "tcgplayerId": "234012",
+    "productId": "71811",
+    "productSku": "I181-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1064-300x400.jpg"
+  },
+  {
+    "name": "Paradoxical Outcome TSR #314 Foil",
+    "tcgplayerId": "233746",
+    "productId": "71810",
+    "productSku": "I209-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1065-300x400.jpg"
+  },
+  {
+    "name": "Silence TSR #302 Foil",
+    "tcgplayerId": "233569",
+    "productId": "71809",
+    "productSku": "I194-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1066-300x400.jpg"
+  },
+  {
+    "name": "Leyline of the Void TSR #326 Foil",
+    "tcgplayerId": "233837",
+    "productId": "71808",
+    "productSku": "E212-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1067-300x400.jpg"
+  },
+  {
+    "name": "Leyline of Sanctity M11 #21 Foil",
+    "tcgplayerId": "35657",
+    "productId": "71807",
+    "productSku": "E211-M11-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1068-300x400.jpg"
+  },
+  {
+    "name": "Renewed Solidarity DRC #23 Extended Art Foil*",
+    "tcgplayerId": "615260",
+    "productId": "71806",
+    "productSku": "E209-DRC-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1069-300x400.jpg"
+  },
+  {
+    "name": "Collector Ouphe MH1 #158 Foil",
+    "tcgplayerId": "191057",
+    "productId": "71805",
+    "productSku": "C597-MH1-HF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1071-300x400.jpg"
+  },
+  {
+    "name": "Monastery Swiftspear TSR #349 Foil",
+    "tcgplayerId": "233938",
+    "productId": "71804",
+    "productSku": "C610-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1072-300x400.jpg"
+  },
+  {
+    "name": "Arcades, the Strategist TSR #371 Foil",
+    "tcgplayerId": "234053",
+    "productId": "71802",
+    "productSku": "C608-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1074-300x400.jpg"
+  },
+  {
+    "name": "Master of the Pearl Trident TSR #310 Foil",
+    "tcgplayerId": "233761",
+    "productId": "71801",
+    "productSku": "C607-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1075-300x400.jpg"
+  },
+  {
+    "name": "Yawgmoth, Thran Physician TSR #336 Foil",
+    "tcgplayerId": "233881",
+    "productId": "71800",
+    "productSku": "C152-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1076-300x400.jpg"
+  },
+  {
+    "name": "Kiki-Jiki, Mirror Breaker TSR #346 Foil",
+    "tcgplayerId": "233910",
+    "productId": "71799",
+    "productSku": "C606-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1077-300x400.jpg"
+  },
+  {
+    "name": "Primeval Titan TSR #365 Foil",
+    "tcgplayerId": "234027",
+    "productId": "71798",
+    "productSku": "C605-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1078-300x400.jpg"
+  },
+  {
+    "name": "Seasoned Pyromancer SLP Full Art #24 Foil",
+    "tcgplayerId": "537913",
+    "productId": "71797",
+    "productSku": "C102-SLP-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1079-300x400.jpg"
+  },
+  {
+    "name": "Riptide Gearhulk DFT Full Art #353 Foil",
+    "tcgplayerId": "615409",
+    "productId": "71796",
+    "productSku": "C593-DFT-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1080-300x400.jpg"
+  },
+  {
+    "name": "Reclamation Sage TSR #366 Foil",
+    "tcgplayerId": "233967",
+    "productId": "71795",
+    "productSku": "C604-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1081-300x400.jpg"
+  },
+  {
+    "name": "Oildeep Gearhulk DFT #251 Extended Art Foil",
+    "tcgplayerId": "614341",
+    "productId": "71794",
+    "productSku": "C594-DFT-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1082-300x400.jpg"
+  },
+  {
+    "name": "Trinket Mage TSR #320 Foil",
+    "tcgplayerId": "233520",
+    "productId": "71793",
+    "productSku": "C603-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1083-300x400.jpg"
+  },
+  {
+    "name": "Zulaport Cutthroat TSR #337 Foil",
+    "tcgplayerId": "233851",
+    "productId": "71792",
+    "productSku": "C612-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1084-300x400.jpg"
+  },
+  {
+    "name": "Dauthi Voidwalker SCH #23 Foil",
+    "tcgplayerId": "542185",
+    "productId": "71791",
+    "productSku": "C137-SCH-HF-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1085-300x400.jpg"
+  },
+  {
+    "name": "Containment Priest TSR #292 Foil",
+    "tcgplayerId": "233485",
+    "productId": "71790",
+    "productSku": "C602-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1087-300x400.jpg"
+  },
+  {
+    "name": "Elvish Mystic TSR #360 Foil",
+    "tcgplayerId": "233958",
+    "productId": "71788",
+    "productSku": "C351-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1089-300x400.jpg"
+  },
+  {
+    "name": "True-Name Nemesis TSR #321 Foil",
+    "tcgplayerId": "233763",
+    "productId": "71787",
+    "productSku": "C601-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1090-300x400.jpg"
+  },
+  {
+    "name": "Radiant Lotus DFT #395 Extended Art Foil",
+    "tcgplayerId": "615746",
+    "productId": "71786",
+    "productSku": "A267-DFT-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1091-300x400.jpg"
+  },
+  {
+    "name": "Monument to Endurance DFT #394 Extended Art Foil",
+    "tcgplayerId": "615740",
+    "productId": "71785",
+    "productSku": "A268-DFT-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1092-300x400.jpg"
+  },
+  {
+    "name": "Chalice of the Void TSR #390 Foil",
+    "tcgplayerId": "233438",
+    "productId": "71784",
+    "productSku": "A107-TSR-RF",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1094-300x400.jpg"
+  },
+  {
+    "name": "Loot, the Pathfinder DFT #391 Extended Art Foil",
+    "tcgplayerId": "615904",
+    "productId": "71783",
+    "productSku": "C595-DFT-HF-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1096-300x400.jpg"
+  },
+  {
+    "name": "Radiant Lotus DFT Extended Art #395",
+    "tcgplayerId": "615746",
+    "productId": "70464",
+    "productSku": "A267-DFT-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1012-300x400.jpg"
+  },
+  {
+    "name": "The Aetherspark DFT #231",
+    "tcgplayerId": "614178",
+    "productId": "70462",
+    "productSku": "P137-DFT-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1028-300x400.jpg"
+  },
+  {
+    "name": "Ketramose, the New Dawn DFT Full Art #350",
+    "tcgplayerId": "614570",
+    "productId": "70458",
+    "productSku": "C591-DFT-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_0998-300x400.jpg"
+  },
+  {
+    "name": "Ketramose, the New Dawn DFT #209",
+    "tcgplayerId": "614483",
+    "productId": "70460",
+    "productSku": "C591-DFT-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_0999-300x400.jpg"
+  },
+  {
+    "name": "Dauthi Voidwalker SCH #23",
+    "tcgplayerId": "542185",
+    "productId": "70490",
+    "productSku": "C137-SCH-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1010-300x400.jpg"
+  },
+  {
+    "name": "Rise of the Dark Realms FDN Full Art #323",
+    "tcgplayerId": "591780",
+    "productId": "70488",
+    "productSku": "S146-FDN-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1013-300x400.jpg"
+  },
+  {
+    "name": "Swan Song SLD Full Art #1591",
+    "tcgplayerId": "617863",
+    "productId": "70484",
+    "productSku": "I115-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_0991-300x400.jpg"
+  },
+  {
+    "name": "Seasoned Pyromancer SLP Full Art #24",
+    "tcgplayerId": "537913",
+    "productId": "70501",
+    "productSku": "C102-SLP-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_0994-300x400.jpg"
+  },
+  {
+    "name": "Bone Miser SPG Full Art #87",
+    "tcgplayerId": "615620",
+    "productId": "70532",
+    "productSku": "C600-SPG-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1015-300x400.jpg"
+  },
+  {
+    "name": "Brightglass Gearhulk DFT Full Art #348",
+    "tcgplayerId": "614329",
+    "productId": "70468",
+    "productSku": "C592-DFT-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1022-300x400.jpg"
+  },
+  {
+    "name": "Radiant Lotus DFT #240",
+    "tcgplayerId": "615748",
+    "productId": "70466",
+    "productSku": "A267-DFT-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1014-300x400.jpg"
+  },
+  {
+    "name": "Rot Hulk GNT #3",
+    "tcgplayerId": "175231",
+    "productId": "70453",
+    "productSku": "C590-GNT-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1024-300x400.jpg"
+  },
+  {
+    "name": "Memnite DCI #61",
+    "tcgplayerId": "48126",
+    "productId": "70451",
+    "productSku": "C242-DCI-RR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_0996-300x400.jpg"
+  },
+  {
+    "name": "Wastewood Verge DFT Full Art #374",
+    "tcgplayerId": "614429",
+    "productId": "70477",
+    "productSku": "L304-DFT-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1008-300x400.jpg"
+  },
+  {
+    "name": "Oildeep Gearhulk DFT Full Art #351",
+    "tcgplayerId": "614341",
+    "productId": "70475",
+    "productSku": "C594-DFT-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1029-300x400.jpg"
+  },
+  {
+    "name": "Riptide Gearhulk DFT Full Art #353",
+    "tcgplayerId": "615409",
+    "productId": "70473",
+    "productSku": "C593-DFT-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1011-300x400.jpg"
+  },
+  {
+    "name": "Brightglass Gearhulk DFT #191",
+    "tcgplayerId": "596628",
+    "productId": "70470",
+    "productSku": "C592-DFT-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_0993-300x400.jpg"
+  },
+  {
+    "name": "Bleachbone Verge DFT Full Art #371",
+    "tcgplayerId": "614399",
+    "productId": "70497",
+    "productSku": "L307-DFT-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1006-300x400.jpg"
+  },
+  {
+    "name": "Tevesh Szat, Doom of Fools SLD Full Art #1199",
+    "tcgplayerId": "514518",
+    "productId": "70486",
+    "productSku": "P138-SLD-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1016-300x400.jpg"
+  },
+  {
+    "name": "Loot, the Pathfinder DFT #391",
+    "tcgplayerId": "615904",
+    "productId": "70482",
+    "productSku": "C595-DFT-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1023-300x400.jpg"
+  },
+  {
+    "name": "Collector Ouphe MH1 #158",
+    "tcgplayerId": "191057",
+    "productId": "70507",
+    "productSku": "C597-MH1-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1019-300x400.jpg"
+  },
+  {
+    "name": "Fatal Push SLD #112",
+    "tcgplayerId": "221988",
+    "productId": "70505",
+    "productSku": "I163-SLD-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1001-300x400.jpg"
+  },
+  {
+    "name": "Stridehangar Automaton DRC Extended Art #35",
+    "tcgplayerId": "615137",
+    "productId": "70503",
+    "productSku": "C596-DRC-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_0997-300x400.jpg"
+  },
+  {
+    "name": "Sunbillow Verge DFT Full Art #373",
+    "tcgplayerId": "614422",
+    "productId": "70499",
+    "productSku": "L308-DFT-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1005-300x400.jpg"
+  },
+  {
+    "name": "Willowrush Verge DFT Full Art #375",
+    "tcgplayerId": "614433",
+    "productId": "70495",
+    "productSku": "L306-DFT-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1007-300x400.jpg"
+  },
+  {
+    "name": "Floodfarm Verge DFT #259",
+    "tcgplayerId": "576514",
+    "productId": "70492",
+    "productSku": "L305-DSK-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1009-300x400.jpg"
+  },
+  {
+    "name": "Karn, the Great Creator BLC Full Art #73",
+    "tcgplayerId": "559608",
+    "productId": "70523",
+    "productSku": "P106-BLC-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1026-300x400.jpg"
+  },
+  {
+    "name": "Deflecting Swat SLD #1552",
+    "tcgplayerId": "617964",
+    "productId": "70520",
+    "productSku": "I109-SLD-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1031-300x400.jpg"
+  },
+  {
+    "name": "Exalted Flamer of Tzeentch 40K",
+    "tcgplayerId": "286168",
+    "productId": "70518",
+    "productSku": "C374-40K-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1025-300x400.jpg"
+  },
+  {
+    "name": "Throne of the God-Pharaoh AKH #237",
+    "tcgplayerId": "129836",
+    "productId": "70514",
+    "productSku": "A269-AKH-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1004-300x400.jpg"
+  },
+  {
+    "name": "Cathars’ Crusade INR Full Art #483",
+    "tcgplayerId": "609780",
+    "productId": "70512",
+    "productSku": "E175-INR-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1003-300x400.jpg"
+  },
+  {
+    "name": "Cyberdrive Awakener NEC Extended Art #48",
+    "tcgplayerId": "263131",
+    "productId": "70509",
+    "productSku": "C598-NEC-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1017-300x400.jpg"
+  },
+  {
+    "name": "Bone Miser C19 #15",
+    "tcgplayerId": "196671",
+    "productId": "70534",
+    "productSku": "C600-C19-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_0992-300x400.jpg"
+  },
+  {
+    "name": "Chandra’s Ignition SPG Full Art #89",
+    "tcgplayerId": "614496",
+    "productId": "70530",
+    "productSku": "S193-SPG-HR-F",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1020-300x400.jpg"
+  },
+  {
+    "name": "Unstoppable Plan DFT Extended Art #382",
+    "tcgplayerId": "615375",
+    "productId": "70528",
+    "productSku": "E210-DFT-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1021-300x400.jpg"
+  },
+  {
+    "name": "Renewed Solidarity DRC Extended Art #23",
+    "tcgplayerId": "615260",
+    "productId": "70525",
+    "productSku": "E209-DRC-HR-E",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1027-300x400.jpg"
+  },
+  {
+    "name": "Ethersworn Canonist 2XM #14",
+    "tcgplayerId": "218801",
+    "productId": "70516",
+    "productSku": "C599-2XM-HR",
+    "productImg": "https://bootlegmage.com/wp-content/uploads/2025/03/IMG_1018-300x400.jpg"
+  },
+  {
     "name": "Encore Electromancer SLP #808 Foil",
     "tcgplayerId": "557904",
     "productId": "63134",
