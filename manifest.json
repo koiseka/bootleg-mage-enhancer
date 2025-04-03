@@ -40,7 +40,7 @@
     ],
     "browser_specific_settings": {
       "gecko": {
-        "id": "bootleg-mage-enhancer@example.com",
+        "id": "{8ad9a45a-bbaa-415c-8e15-1a828537c527}",
         "strict_min_version": "109.0"
       }
     }

@@ -545,10 +545,18 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     importResults.style.display = 'block';
-    importSummary.innerHTML = `<strong>Results:</strong> ${results.success || 0} cards added to cart, ${results.notFound || 0} cards not found`;
+    
+    // Create a summary text node instead of using innerHTML
+    importSummary.textContent = '';
+    const summaryStrong = document.createElement('strong');
+    summaryStrong.textContent = 'Results:';
+    importSummary.appendChild(summaryStrong);
+    importSummary.appendChild(document.createTextNode(` ${results.success || 0} cards added to cart, ${results.notFound || 0} cards not found`));
     
     // Clear previous results
-    importResultList.innerHTML = '';
+    while (importResultList.firstChild) {
+      importResultList.removeChild(importResultList.firstChild);
+    }
     
     // Add result items
     if (results.results && Array.isArray(results.results)) {
@@ -557,9 +565,15 @@ document.addEventListener('DOMContentLoaded', () => {
         resultItem.className = `result-item result-${item.status || 'error'}`;
         
         if (item.status === 'success') {
-          resultItem.innerHTML = `✓ ${item.quantity}x ${item.name} (${item.match})`;
+          // Create text content safely without innerHTML
+          const checkMark = document.createTextNode('✓ ');
+          resultItem.appendChild(checkMark);
+          resultItem.appendChild(document.createTextNode(`${item.quantity}x ${item.name} (${item.match})`));
         } else {
-          resultItem.innerHTML = `✗ ${item.quantity}x ${item.name} - ${item.message || 'Unknown error'}`;
+          // Create text content safely without innerHTML
+          const xMark = document.createTextNode('✗ ');
+          resultItem.appendChild(xMark);
+          resultItem.appendChild(document.createTextNode(`${item.quantity}x ${item.name} - ${item.message || 'Unknown error'}`));
         }
         
         importResultList.appendChild(resultItem);

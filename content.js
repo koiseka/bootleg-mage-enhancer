@@ -343,7 +343,10 @@ function createWishlistButton(productId, productName, productSku, productImg, pr
     event.preventDefault();
     event.stopPropagation();
     
-    if (isInWishlist(productId)) {
+    // Determine current state before the change
+    const wasInWishlist = isInWishlist(productId);
+    
+    if (wasInWishlist) {
       // Remove from wishlist
       wishlistItems = wishlistItems.filter(item => item.productId !== productId);
       button.textContent = '☆';
@@ -372,9 +375,9 @@ function createWishlistButton(productId, productName, productSku, productImg, pr
     // Save wishlist data
     await saveWishlistData();
     
-    // Show feedback
+    // Show feedback with the correct message based on the action that was just performed
     const feedback = document.createElement('div');
-    feedback.textContent = isInWishlist(productId) ? 'Removed from wishlist' : 'Added to wishlist';
+    feedback.textContent = wasInWishlist ? 'Removed from wishlist' : 'Added to wishlist';
     feedback.style.position = 'fixed';
     feedback.style.bottom = '20px';
     feedback.style.left = '50%';
@@ -1215,14 +1218,34 @@ async function addToCart(productId, quantity = 1, productSku = null) {
       // Update mini cart fragments if available
       if (data.fragments['div.widget_shopping_cart_content']) {
         document.querySelectorAll('.widget_shopping_cart_content').forEach(el => {
-          el.innerHTML = data.fragments['div.widget_shopping_cart_content'];
+          // Replace unsafe innerHTML with a safer approach using DOM parser
+          const parser = new DOMParser();
+          const fragmentDoc = parser.parseFromString(data.fragments['div.widget_shopping_cart_content'], 'text/html');
+          // Clear existing content
+          while (el.firstChild) {
+            el.removeChild(el.firstChild);
+          }
+          // Append new content
+          while (fragmentDoc.body.firstChild) {
+            el.appendChild(fragmentDoc.body.firstChild);
+          }
         });
       }
       
       // Update cart count if available
       if (data.fragments['.elementor-menu-cart__wrapper']) {
         document.querySelectorAll('.elementor-menu-cart__wrapper').forEach(el => {
-          el.innerHTML = data.fragments['.elementor-menu-cart__wrapper'];
+          // Replace unsafe innerHTML with a safer approach using DOM parser
+          const parser = new DOMParser();
+          const fragmentDoc = parser.parseFromString(data.fragments['.elementor-menu-cart__wrapper'], 'text/html');
+          // Clear existing content
+          while (el.firstChild) {
+            el.removeChild(el.firstChild);
+          }
+          // Append new content
+          while (fragmentDoc.body.firstChild) {
+            el.appendChild(fragmentDoc.body.firstChild);
+          }
         });
       }
     }
