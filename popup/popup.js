@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const jsonUrlDisplay = document.getElementById('jsonUrlDisplay');
   
   // Default JSON URL (matching the one in content.js)
-  const defaultJsonUrl = "https://raw.githubusercontent.com/koiseka/bm-prices/refs/heads/main/cards.json";
+  const defaultJsonUrl = "https://raw.githubusercontent.com/koiseka/bootleg-mage-enhancer/refs/heads/main/cards.json";
   
   // Import tab elements
   const deckListTextarea = document.getElementById('deckList');
